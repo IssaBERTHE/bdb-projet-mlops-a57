@@ -1,0 +1,4 @@
+train data X(392, 14)
+test data X(98, 14)
+train data Y(392,)
+test data Y(98,)
